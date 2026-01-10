@@ -7,6 +7,7 @@
 html{scroll-behavior:smooth}
 body{background:#f4f6f8}
 
+
 /* NAVBAR */
 nav{
   display:flex;
@@ -100,4 +101,7 @@ footer{
   color:white;
   text-align:center;
   padding:15px;
+}
+body {
+  min-width: 1200px;
 }
