@@ -24,7 +24,7 @@ nav a{color:white;text-decoration:none}
 
 /* HERO */
 .hero{
-  height:100vh;
+  height:90vh;
   display:flex;
   flex-direction:column;
   justify-content:center;
@@ -32,12 +32,12 @@ nav a{color:white;text-decoration:none}
   background:linear-gradient(to right,#0d6efd,#6610f2);
   color:white;
   text-align:center;
-  background-image:url("https://github.com/shareasobuj/Portfolio/blob/main/Gemini_Generated_Image_rxphh8rxphh8rxph%20(1).png");
-  background-imagesize: 25px;  /*cover দিলে ফুল স্ক্রিন */
-  background-position:center;
   
 }
-
+.hero-img{
+  width:50px;
+  height:50px;
+}
   
 .hero span{color:yellow}
 .btn{
