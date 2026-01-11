@@ -54,6 +54,15 @@ nav a{color:white;text-decoration:none}
   border: 2px solid white;
   color: white;
 }
+.hero-h1{
+  font-size:3rem
+}
+.hero-h2{
+  font-size:3rem
+}
+.hero-h3{
+  font-size:3rem
+}
 
 
 /* SECTION */
