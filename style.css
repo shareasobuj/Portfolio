@@ -33,7 +33,7 @@ nav a{color:white;text-decoration:none}
   color:white;
   text-align:center;
   background-image:url("https://github.com/shareasobuj/Portfolio/blob/main/Gemini_Generated_Image_rxphh8rxphh8rxph%20(1).png");
-  background-size:contain; /*cover দিলে ফুল স্ক্রিন */
+  background-imagesize: 100px;  /*cover দিলে ফুল স্ক্রিন */
   background-position:center;
   
 }
