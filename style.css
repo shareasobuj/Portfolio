@@ -108,6 +108,26 @@ footer{
   text-align:center;
   padding:15px;
 }
+/* PROFILE IMAGE */
+.profile-img{
+  width:160px;
+  height:160px;
+  border-radius:50%;
+  border:4px solid white;
+  margin-bottom:15px;
+  object-fit:cover;
+}
+
+/* HERO BUTTONS */
+.hero-buttons{
+  margin-top:20px;
+}
+
+.btn.outline{
+  background:transparent;
+  border:2px solid white;
+  color:white;
+}
 
 
 
