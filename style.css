@@ -106,9 +106,9 @@ footer{
 }
 /* PROFILE IMAGE */
 .profile-img{
-  width:50;
-  height:50;
-  border-radius:50%;
+  width:150;
+  height:150;
+  border-radius:100%;
   border:4px solid white;
   margin-bottom:15px;
   object-fit:cover;
